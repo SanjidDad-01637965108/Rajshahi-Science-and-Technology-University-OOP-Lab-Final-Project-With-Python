@@ -1,0 +1,409 @@
+<mxfile host="app.diagrams.net" modified="2023-11-16T05:03:05.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Vmbl2shh_Fk1WPLyvl6C" version="22.1.2" type="device">
+  <diagram name="Page-1" id="s4Xzaib6l58lz0M47cyj">
+    <mxGraphModel dx="3460" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="16eG1rJPLGcmvWBbC-ST-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1320" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="425" />
+              <mxPoint x="30" y="580" />
+              <mxPoint x="-1270" y="580" />
+              <mxPoint x="-1270" y="380" />
+              <mxPoint x="-1300" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-1" target="9RpSuZIxt0ru7fGm1Z8G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-1" value="START" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-3" target="9RpSuZIxt0ru7fGm1Z8G-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-3" target="9RpSuZIxt0ru7fGm1Z8G-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-3" value="Create&lt;br&gt;New File" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oROs65yzid0ws08hsqDA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-7" target="oROs65yzid0ws08hsqDA-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-7" value="MAIN.PY" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9RpSuZIxt0ru7fGm1Z8G-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="210" as="targetPoint" />
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="130" />
+              <mxPoint x="100" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RpSuZIxt0ru7fGm1Z8G-9" value="MODEL.PY" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16eG1rJPLGcmvWBbC-ST-4" target="16eG1rJPLGcmvWBbC-ST-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="260" />
+              <mxPoint x="100" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-4" value="Create New Class Name: DB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5" y="200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16eG1rJPLGcmvWBbC-ST-6" target="16eG1rJPLGcmvWBbC-ST-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="330" />
+              <mxPoint x="100" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-6" value="In Constructor Create a New Attribute name: FILE and Store All Csv File Data" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="280" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16eG1rJPLGcmvWBbC-ST-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="380" as="targetPoint" />
+            <mxPoint x="99.75" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="490" />
+              <mxPoint x="-290" y="490" />
+              <mxPoint x="-290" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="16eG1rJPLGcmvWBbC-ST-8" target="KoekARZ3RzkWuvK_oYvv-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="400" />
+              <mxPoint x="200" y="500" />
+              <mxPoint x="-550" y="500" />
+              <mxPoint x="-550" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-8" value="Create New Methods" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-13" value="Create New Csv File For Store All Student Data. File Name: DATA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="110" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-15" value="Print Attribute Name: FILE" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-217.5" y="440" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oROs65yzid0ws08hsqDA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oROs65yzid0ws08hsqDA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.0000000000002" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oROs65yzid0ws08hsqDA-1" value="Import DB Class From MODEL.PY File" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="280" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oROs65yzid0ws08hsqDA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oROs65yzid0ws08hsqDA-4" value="Create New Object Name: DB_OBJECT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-1" target="KoekARZ3RzkWuvK_oYvv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="430" />
+              <mxPoint x="-410" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-1" value="Method Name: FIND_STUDENT_DATA_BY_ID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16eG1rJPLGcmvWBbC-ST-11" target="16eG1rJPLGcmvWBbC-ST-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16eG1rJPLGcmvWBbC-ST-11" value="Method Name: DISPLAY_ALL_STUDENT_DATA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="360" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-8" value="This Method Should Take Input From User and Print The Student Data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-12" value="Method Name: CREATE_NEW_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-13" target="KoekARZ3RzkWuvK_oYvv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-13" value="This Method Should Take Many Input From User and Create a New Student Entry, Then Add This Entry To Csv File Name: DATA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="440" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-12" target="KoekARZ3RzkWuvK_oYvv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-16" value="Then Called: FIND_STUDENT_DATA_BY_ID Method" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="520" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-16" target="KoekARZ3RzkWuvK_oYvv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.547;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="16eG1rJPLGcmvWBbC-ST-8" target="KoekARZ3RzkWuvK_oYvv-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-990" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="375" />
+              <mxPoint x="30" y="330" />
+              <mxPoint x="-1122" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-21" target="KoekARZ3RzkWuvK_oYvv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-21" value="Method Name: DELETE_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-23" target="KoekARZ3RzkWuvK_oYvv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-23" value="This Method Should Take Input From User and Find The Student" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-25" value="Then Delete The Student Entry From The Csv File Name: DATA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="520" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-28" value="Method Name: EDIT_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-29" target="KoekARZ3RzkWuvK_oYvv-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1400" y="490" />
+              <mxPoint x="-1410" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-29" value="This Method Should Take Input From User and Find The Student" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-28" target="KoekARZ3RzkWuvK_oYvv-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1400" y="420" />
+              <mxPoint x="-1391" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-31" target="KoekARZ3RzkWuvK_oYvv-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1410" y="540" />
+              <mxPoint x="-1400" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-31" value="Then Ask What Do You Want To Update" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-35" target="KoekARZ3RzkWuvK_oYvv-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1240" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1270" y="630" />
+              <mxPoint x="-1270" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-35" target="KoekARZ3RzkWuvK_oYvv-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1520" y="630" />
+              <mxPoint x="-1520" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-35" value="IF User Enter Valid Option" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="560" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-38" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-39" value="Update The Student Entry In The Csv File Name: DATA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="600" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-40" value="Print An Error" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-42" value="Else" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-44" target="KoekARZ3RzkWuvK_oYvv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-44" value="Create a New Variable Called: CONTROL_LOOP and Assign Value True" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-45" target="KoekARZ3RzkWuvK_oYvv-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-45" value="Create a Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-47" target="KoekARZ3RzkWuvK_oYvv-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-47" value="Take Input From User and Store It To a New Variable Called: USER_COMMAND" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="560" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="665" />
+              <mxPoint x="860" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49" target="KoekARZ3RzkWuvK_oYvv-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-49" target="KoekARZ3RzkWuvK_oYvv-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="643" />
+              <mxPoint x="490" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-49" value="Check Condition" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="620" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-52" value="USER_COMMAND == &quot;EXIT&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="730" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-53" value="Update The Variable: USER_COMMAND and Stop The Loop&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="760" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="840" as="targetPoint" />
+            <mxPoint x="595" y="665" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-57" target="KoekARZ3RzkWuvK_oYvv-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="860" />
+              <mxPoint x="650" y="1060" />
+              <mxPoint x="130" y="1060" />
+              <mxPoint x="130" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-57" value="Print An Error" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-58" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="810" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-62" target="KoekARZ3RzkWuvK_oYvv-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1241" y="840" />
+              <mxPoint x="1241" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-62" value="Call DB_OBJECT Method Name: DISPLAY_ALL_STUDENT_DATA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="820" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;USER_COMMAND == &quot;LIST&quot;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="790" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;USER_COMMAND == &quot;FIND&quot;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="611" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-68" value="Take An Input From User and Call DB_OBJECT Method Name: FIND_STUDENT_DATA_BY_ID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-73" value="Take An Input From User and Call DB_OBJECT Method Name: DELETE_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="721" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-74" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;USER_COMMAND == &quot;DELETE&quot;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="691" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-78" value="Take Many Input From User and Called DB_OBJECT Method Name: CREATE_NEW_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-79" value="USER_COMMAND == &quot;ADD&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="890" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoekARZ3RzkWuvK_oYvv-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.99999999999955" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-83" value="Take Input From User and Called DB_OBJECT Method Name: EDIT_STUDENT_ENTRY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="573" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KoekARZ3RzkWuvK_oYvv-84" value="USER_COMMAND == &quot;UPDATE&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="613" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
